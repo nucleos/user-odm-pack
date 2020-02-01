@@ -15,7 +15,7 @@
         "doctrine/mongodb": "^1.6",
         "doctrine/mongodb-odm": "^1.1 || ^2.0",
         "doctrine/mongodb-odm-bundle": "^4.1",
-        "nucleos/user-bundle": "^1.0"
+        "nucleos/user-bundle": "^1.1"
     },
     "require-dev": {
         "alcaeus/mongo-php-adapter": "^1.1",
