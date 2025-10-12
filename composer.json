@@ -3,6 +3,7 @@
     "description": "A pack for NucleosUserBundle with MongoDB support",
     "license": "MIT",
     "type": "symfony-pack",
+    "abandoned": true,
     "authors": [
         {
             "name": "Christian Gripp",
